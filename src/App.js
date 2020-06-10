@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Its a react components learning class.
+          It's a react components learning class.
         </p>
         <a
           className="App-link"
