@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import Student from './Student';
 import './App.css';
 
 function App() {
@@ -8,8 +9,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          It's a react components learning class.
+          This is a React based Bootcamp 2020.
         </p>
+        <Student/>
         <a
           className="App-link"
           href="https://reactjs.org"
