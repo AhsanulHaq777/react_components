@@ -11,7 +11,9 @@ function App() {
         <p>
           This is a React based Bootcamp 2020.
         </p>
-        <Student />
+        <Student myname="Ahsan ul Haq"/>
+        <Student myage="26"/>
+        <Student mycourse="Reactjs"/>
         <a
           className="App-link"
           href="https://reactjs.org"
