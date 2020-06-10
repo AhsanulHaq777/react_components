@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import Student from './Student';
+import Student from './Student.js';
 import './App.css';
 
 function App() {
