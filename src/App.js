@@ -11,7 +11,7 @@ function App() {
         <p>
           This is a React based Bootcamp 2020.
         </p>
-        <Student/>
+        <Student />
         <a
           className="App-link"
           href="https://reactjs.org"
